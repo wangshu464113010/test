@@ -1,14 +1,18 @@
 package com.a.b;
 
 public class dsa {
-private void syso() {
-	// TODO Auto-generated method stub
-System.out.println("dsfdsfgsd");
-//<<<<<<< HEAD
-String a = "12";
-String b = null;
-//=======
-System.out.println("谁晚一点谁加班");
-//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
-}
+	private void syso() {
+		System.out.println("dsfdsfgsd");
+		//<<<<<<< HEAD
+		String a = "12";
+		//=======
+		System.out.println("谁晚一点谁加班");
+		//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
+		System.out.println("ndksjfjsk");
+		
+	}
+	public void a(){
+		String a = "12";
+		String b = null;
+	}
 }
