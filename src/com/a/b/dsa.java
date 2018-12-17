@@ -17,6 +17,7 @@ public class dsa {
 		System.out.println("ndksjfjsk");
 		System.out.println("谁晚一点谁加班");
 	}
+//<<<<<<< HEAD
 //<<<<<<< Upstream, based on branch 'master' of https://github.com/wangshu464113010/test.git
 	
 
@@ -31,6 +32,8 @@ public class dsa {
 		System.out.println("谁晚一点谁加班");
 //>>>>>>> 7ec2554 zq
 	}
+//=======
+//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 	public void add() throws FileNotFoundException{
 		PrintWriter pw = new PrintWriter(new File("a.txt"));
 		pw.println(10);
