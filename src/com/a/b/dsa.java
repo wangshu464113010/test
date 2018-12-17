@@ -43,5 +43,10 @@ public class dsa {
 		ps.println("1234756");
 		ps.close();
 	}
+	public void hello() throws FileNotFoundException{
+		syso();
+		System.out.println();
+		PrintStream ps = new PrintStream(new File("a.txt"));
+	}
 	
 }
