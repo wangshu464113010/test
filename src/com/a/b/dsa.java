@@ -1,5 +1,10 @@
 package com.a.b;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
+import java.io.PrintWriter;
+
 public class dsa {
 	private void syso() {
 		System.out.println("dsfdsfgsd");
@@ -11,6 +16,15 @@ public class dsa {
 		System.out.println("ndksjfjsk");
 		System.out.println("ndksjfjsk");
 		System.out.println("À≠ÕÌ“ªµ„À≠º”∞‡");
+	}
+	public void add() throws FileNotFoundException{
+		PrintWriter pw = new PrintWriter(new File("a.txt"));
+		pw.println(10);
+		pw.flush();
+		System.out.println();
+		PrintStream ps = new PrintStream(new File("a.txt"));
+		ps.println("1234756");
+		ps.close();
 	}
 	
 }
