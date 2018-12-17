@@ -50,7 +50,7 @@ public class dsa {
 		PrintStream ps = new PrintStream(new File("a.txt"));
 	}
 //=======
-	public void stringadd(){
+	public void stringadd() throws FileNotFoundException{
 		add();
 		dfsadfs();
 //>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
