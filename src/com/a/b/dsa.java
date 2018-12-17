@@ -11,11 +11,11 @@ public class dsa {
 		//<<<<<<< HEAD
 		String a = "12";
 		//=======
-		System.out.println("Ë­ÍíÒ»µãË­¼Ó°à");
+		System.out.println("è°æ™šä¸€ç‚¹è°åŠ ç­");
 		//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 		System.out.println("ndksjfjsk");
 		System.out.println("ndksjfjsk");
-		System.out.println("Ë­ÍíÒ»µãË­¼Ó°à");
+		System.out.println("è°æ™šä¸€ç‚¹è°åŠ ç­");
 	}
 //<<<<<<< HEAD
 //<<<<<<< Upstream, based on branch 'master' of https://github.com/wangshu464113010/test.git
@@ -25,11 +25,11 @@ public class dsa {
 	public void dfsadfs() {
 		String a = "12";
 		//=======
-		System.out.println("Ë­ÍíÒ»µãË­¼Ó°à");
+		System.out.println("è°æ™šä¸€ç‚¹è°åŠ ç­");
 		//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 		System.out.println("ndksjfjsk");
 		System.out.println("ndksjfjsk");
-		System.out.println("Ë­ÍíÒ»µãË­¼Ó°à");
+		System.out.println("è°æ™šä¸€ç‚¹è°åŠ ç­");
 //>>>>>>> 7ec2554 zq
 	}
 //=======
@@ -42,6 +42,10 @@ public class dsa {
 		PrintStream ps = new PrintStream(new File("a.txt"));
 		ps.println("1234756");
 		ps.close();
+	}
+	public void stringadd(){
+		add();
+		dfsadfs();
 	}
 	
 }
