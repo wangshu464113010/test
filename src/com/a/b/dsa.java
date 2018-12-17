@@ -12,5 +12,14 @@ public class dsa {
 		System.out.println("ndksjfjsk");
 		System.out.println("谁晚一点谁加班");
 	}
+	public void dfsadfs() {
+		String a = "12";
+		//=======
+		System.out.println("谁晚一点谁加班");
+		//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
+		System.out.println("ndksjfjsk");
+		System.out.println("ndksjfjsk");
+		System.out.println("谁晚一点谁加班");
+	}
 	
 }
