@@ -11,6 +11,12 @@ public class dsa {
 		System.out.println("ndksjfjsk");
 		System.out.println("ndksjfjsk");
 		System.out.println("谁晚一点谁加班");
+		System.out.println("ndksjfjsk");
+		System.out.println("ndksjfjsk");
+		System.out.println("谁晚一点谁加班");
+		System.out.println("ndksjfjsk");
+		System.out.println("ndksjfjsk");
+		System.out.println("谁晚一点谁加班");
 	}
 	public void dfsadfs() {
 		String a = "12";
