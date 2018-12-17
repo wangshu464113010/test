@@ -12,4 +12,9 @@ public class Ajax {
 
 	
 //>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
+	public void stringa() {
+		System.out.println("dfsafdsafdanhg");
+		System.out.println("HelloWorld");
+		System.out.println("Hello World !!! -+-----+-");
+	}
 }
