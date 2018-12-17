@@ -52,6 +52,8 @@
 </head>
 <body>
 	<a id="toAjax" href="Hello.txt">ersdf</a>
+	<a id="toAjax" href="Hello.txt">ersdf</a>
+	<a id="toAjax" href="Hello.txt">ersdf</a>
 	<div id="d">
 		
 	</div>
