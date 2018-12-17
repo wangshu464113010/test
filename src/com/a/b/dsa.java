@@ -11,11 +11,11 @@ public class dsa {
 		//<<<<<<< HEAD
 		String a = "12";
 		//=======
-		System.out.println("˭��һ��˭�Ӱ�");
+		System.out.println("璋佹櫄涓�鐐硅皝鍔犵彮");
 		//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 		System.out.println("ndksjfjsk");
 		System.out.println("ndksjfjsk");
-		System.out.println("˭��һ��˭�Ӱ�");
+		System.out.println("璋佹櫄涓�鐐硅皝鍔犵彮");
 	}
 //<<<<<<< HEAD
 //<<<<<<< Upstream, based on branch 'master' of https://github.com/wangshu464113010/test.git
@@ -25,11 +25,11 @@ public class dsa {
 	public void dfsadfs() {
 		String a = "12";
 		//=======
-		System.out.println("˭��һ��˭�Ӱ�");
+		System.out.println("璋佹櫄涓�鐐硅皝鍔犵彮");
 		//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 		System.out.println("ndksjfjsk");
 		System.out.println("ndksjfjsk");
-		System.out.println("˭��һ��˭�Ӱ�");
+		System.out.println("璋佹櫄涓�鐐硅皝鍔犵彮");
 //>>>>>>> 7ec2554 zq
 	}
 //=======
@@ -43,10 +43,17 @@ public class dsa {
 		ps.println("1234756");
 		ps.close();
 	}
+//<<<<<<< HEAD
 	public void hello() throws FileNotFoundException{
 		syso();
 		System.out.println();
 		PrintStream ps = new PrintStream(new File("a.txt"));
+	}
+//=======
+	public void stringadd(){
+		add();
+		dfsadfs();
+//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 	}
 	
 }

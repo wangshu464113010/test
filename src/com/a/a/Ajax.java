@@ -17,6 +17,13 @@ public class Ajax {
 
 	
 //>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
+//<<<<<<< HEAD
+	public void stringa() {
+		System.out.println("dfsafdsafdanhg");
+		System.out.println("HelloWorld");
+		System.out.println("Hello World !!! -+-----+-");
+	}
+//=======
 	
 	
 	
@@ -38,5 +45,6 @@ public class Ajax {
 		PrintStream ps = new PrintStream(new File("a.txt"));
 		ps.println("1234756");
 		ps.close();
+//>>>>>>> branch 'master' of https://github.com/wangshu464113010/test.git
 	}
 }
