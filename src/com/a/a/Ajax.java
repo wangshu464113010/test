@@ -3,7 +3,8 @@ package com.a.a;
 public class Ajax {
 //<<<<<<< HEAD
 	public static void main(String[] args) {
-		System.out.println(4565466);
+		System.out.println("dfsafdsafdanhg");
+		System.out.println(45564155);
 	}
 //=======
 
